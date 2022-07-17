@@ -1,1 +1,24 @@
 /* Write your CSS here! */
+#intro {
+    text-decoration-color: orange;
+
+}
+
+#stillwatermap {
+    position: absolute; 
+    right: 50%;
+    width:50px;
+    height:50px;
+}
+
+.centered {
+    text-align: center;
+    text-decoration: dashed;
+}
+
+.buttons {
+    text-align: center;
+    align-items: center;
+    display: inline-block;
+}
+
